@@ -1,4 +1,8 @@
-#import random buil-in library
+# Nabiha Bashir
+# This program stimulates rolling dice. 
+
+
+#import random built-in library
 import random
 
 #Ask for user input of number of rolls to stimulate
@@ -25,7 +29,7 @@ while True:
     #Display title for histogram
     print("Dice roll histograms:")
 
-    #Continue program if number of rolls is greater than 1 
+    #Continue program if number of rolls is greater than 1
     if number_of_rolls >= 1:
         #Roll the dice number_of_rolls times
         while i in range (number_of_rolls):
