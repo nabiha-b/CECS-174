@@ -1,7 +1,7 @@
 # Nabiha Bashir
-# 018348835
 # Lab Assignment #1
-# Due: 02/08/19
+# This program calculates annual + monthly salary based on hours worked per week and year.
+
 
 
 work_hours_per_week= 40
