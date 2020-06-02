@@ -1,3 +1,6 @@
+# Nabiha Bashir
+# This program tells you how many hot dogs + buns are needed based on how many people attend a cookout.
+
 num_dogs = 10
 num_buns = 8
 
