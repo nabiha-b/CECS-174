@@ -1,3 +1,6 @@
+# Nabiha Bashir
+# This programs tell users whether they're an infant, child, teenager or adult based on their age.
+
 person_age = int(input("Enter a person's age: "))
 
 if person_age <= 1:
@@ -8,6 +11,3 @@ elif person_age >= 13 and person_age <= 19:
     print("You are a teenager")
 elif person_age >= 20:
     print("You are an adult")
-
-    
-5
