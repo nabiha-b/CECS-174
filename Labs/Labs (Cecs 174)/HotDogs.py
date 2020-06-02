@@ -13,9 +13,6 @@ remain_hotdogs = total_hotdogs % num_dogs
 pack_buns = total_hotdogs / num_buns
 remain_buns = total_hotdogs % num_buns
 
-
-
-
 if remain_hotdogs:
     pack_hotdogs += 1
     remain_hotdogs = num_dogs - remain_hotdogs
