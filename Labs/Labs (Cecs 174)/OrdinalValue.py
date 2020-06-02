@@ -1,4 +1,7 @@
-string = input("Enter a string of 10 characters: ")
+# Nabiha Bashir
+# This program returns the ordinal value of 10 numbers entered by the user.
+
+string = input("Enter a string of 10 characters (not separated by space): ")
 x = list(string)
 
 print(x)
@@ -24,9 +27,5 @@ print("Ordinal value of", x[6], "is", g)
 print("Ordinal value of", x[7], "is", h)
 print("Ordinal value of", x[8], "is", i)
 print("Ordinal value of", x[9], "is", j)
-
-
-
-
 
 
